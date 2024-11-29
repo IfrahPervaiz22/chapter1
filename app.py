@@ -40,3 +40,19 @@ area=radius*radius*PI
 perimeter=2*radius*PI
 print("Area of Circle=",area)
 print("Perimeter of Circle=",perimeter)
+#1.9
+print("Width of Rectangle=4.5")
+print("Height of Rectangle=7.9")
+width=4.5
+height=7.9
+area=width*height
+perimeter=2*height*width
+print("Area of Rectangle=",area)
+print("Perimeter of Rectangle=",perimeter)
+#1.10
+print("Total distance=14km")
+print("Total time=45 minutes and 30 seconds")
+dis=14*0.621371
+time=(45/60)+(30/3600)
+avg=dis/time
+print("Average=",avg,"miles/h")
