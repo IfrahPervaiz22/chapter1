@@ -27,3 +27,16 @@ add=0
 for i in range(1,10):
     add+=i
 print(add)
+#1.7
+PI=4*(1-1/3+1/5-1/7+1/9-1/11)
+print(PI)
+exp=4*(1-1/3+1/5-1/7+1/9-1/11+1/13-1/15)
+print(exp)
+#1.8
+print("Radius of Circle=5.5")
+radius=5.5
+PI=3.14
+area=radius*radius*PI
+perimeter=2*radius*PI
+print("Area of Circle=",area)
+print("Perimeter of Circle=",perimeter)
