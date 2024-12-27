@@ -1,3 +1,3 @@
 Solving Book Problems
-Book Nmae: Introduction to programming using Python
+Book Name: Introduction to programming using Python
 By: Y.Daniel Liang
